@@ -4,6 +4,12 @@
   margin-left: 5px;
   margin-bottom: 5px;
 }
+.vacation-image{
+  width: 250px;
+  float: right;
+  padding-right: 30px;
+  padding-top: 30px;
+}
 
 .bg-dark {
   color: white;
@@ -11,4 +17,13 @@
 
 .card {
   margin-bottom: 10px;
+  height: 100%;
+}
+
+ul {
+  list-style-image: url("../img/blossom.png");
+}
+
+.package {
+  margin-bottom: 30px;
 }
