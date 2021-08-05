@@ -5,6 +5,7 @@
   margin-bottom: 5px;
 }
 
+
 .bg-dark {
   color: white;
 }
@@ -12,3 +13,8 @@
 .card {
   margin-bottom: 10px;
 }
+
+ul {
+  list-style-image: url("../img/blossom.png");
+}
+
