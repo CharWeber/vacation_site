@@ -1,4 +1,14 @@
-.card-image{
+.card-image {
   float:right;
   width: 300px;
+  margin-left: 5px;
+  margin-bottom: 5px;
+}
+
+.bg-dark {
+  color: white;
+}
+
+.card {
+  margin-bottom: 10px;
 }
