@@ -4,7 +4,12 @@
   margin-left: 5px;
   margin-bottom: 5px;
 }
-
+.vacation-image{
+  width: 250px;
+  float: right;
+  padding-right: 30px;
+  padding-top: 30px;
+}
 
 .bg-dark {
   color: white;
